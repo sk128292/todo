@@ -1,0 +1,7 @@
+dev/fluttercommunity/plus/sensors/StreamHandlerImpl.java
+ dev.fluttercommunity.plus.sensors.StreamHandlerImpl
+ dev.fluttercommunity.plus.sensors.StreamHandlerImpl$1
+dev/fluttercommunity/plus/sensors/SensorsPlugin.java
+ dev.fluttercommunity.plus.sensors.SensorsPlugin
+dev/fluttercommunity/plus/sensors/BuildConfig.java
+ dev.fluttercommunity.plus.sensors.BuildConfig

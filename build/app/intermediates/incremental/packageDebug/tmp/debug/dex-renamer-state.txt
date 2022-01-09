@@ -1,0 +1,4 @@
+#Sun Jan 09 12:09:09 IST 2022
+base.0=/Users/binarychai3/Documents/todo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
